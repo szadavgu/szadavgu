@@ -1,5 +1,5 @@
 # Helló, örülök, hogy benéztél! 👋  
-## Szalanics Dávid vagyok (Norrbot) 👨‍💻
+## Szalanics Dávid vagyok 👨‍💻
 
 🎓 Mérnökinformatika szakos hallgató vagyok a Debreceni Egyetemen.  
 🛠️ Legjobban akkor érzem magam, ha gépelhetek valamit: legyen az **Python** script, **C** program, vagy épp **Arduino** vezérlés.  

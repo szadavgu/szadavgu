@@ -18,9 +18,7 @@
 
 - ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
 
-- ![Java](https://img.shields.io/badge/Java-B22222?style=for-the-badge&logo=java&logoColor=white)  
-
-- ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-B22222?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 

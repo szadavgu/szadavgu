@@ -30,7 +30,7 @@
 ## 📫 Elérhetsz itt is
 
 - 📘 [Facebook](https://www.facebook.com/Davee0131)
-- 📸 [Instagram](https://www.instagram.com/_.la.puta_ama._/)
+- 📸 [Instagram](https://www.instagram.com/silverhowl_95/)
 
 - 📧 **Hivatalos egyetemi e-mail**: `david20040131@mailbox.unideb.hu`
 - 📧 **Privát egyetemi e-mail**: `davidegyetemi@gmail.com`

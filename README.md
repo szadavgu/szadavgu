@@ -23,7 +23,7 @@
 ---
 
 ## 🔭 Jelenlegi projekt:
-### [🎲 lotto](https://github.com/Norrbot/lotto) – egy egyszerű, de tanulságos Python projekt számgenerálással
+### [G-Trace_2.0](https://github.com/szadavgu/G-Trace_2.0)
 
 ---
 

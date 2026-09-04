@@ -36,7 +36,7 @@
 
 - 📧 **Hivatalos egyetemi e-mail**: `david20040131@mailbox.unideb.hu`
 - 📧 **Privát egyetemi e-mail**: `davidegyetemi@gmail.com`
-- 📧 **Privát e-mail**: `szalanicsdavid2004@gmail.com`
+- 📧 **Privát e-mail**: `moonchild.dae7@gmail.com`
 
 Ne aggódj, **mindig visszajelzek**, csak néha tanulnom is kell 😅
 

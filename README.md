@@ -25,6 +25,7 @@
 ## 🔭 Jelenlegi projektek:
 ### [F1 G-erő Mérő](https://github.com/szadavgu/G-Trace_2.0)
 ### [Lottó Program](https://github.com/szadavgu/lotto)
+### [StreamKuckó](https://github.com/szadavgu/StreamKucko)
 
 ---
 
